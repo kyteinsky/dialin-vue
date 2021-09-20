@@ -1,4 +1,9 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from "vue";
+import App from "./App.vue";
 
-createApp(App).mount('#app')
+import MasonryWall from "@yeger/vue-masonry-wall";
+import "@/assets/global.css";
+
+createApp(App)
+  .use(MasonryWall)
+  .mount("#app");
