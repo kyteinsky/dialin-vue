@@ -639,6 +639,11 @@
   resolved "https://registry.npm.taobao.org/@xtuc/long/download/@xtuc/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha1-0pHGpOl5ibXGHZrPOWrk/hM6cY0=
 
+"@yeger/vue-masonry-wall@^2.2.7":
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/@yeger/vue-masonry-wall/-/vue-masonry-wall-2.2.7.tgz#954606b8b27d87e50f338020fb7dd8a042797bdc"
+  integrity sha512-VNrkAvEMIvK1R7/+trMbv00mw8/9lJF1xyKAqKl6djQyxfARokcJqyU0EjblsLoCnmDVYlG2JNBGBsTvSMpdfg==
+
 accepts@~1.3.4, accepts@~1.3.5, accepts@~1.3.7:
   version "1.3.7"
   resolved "https://registry.npm.taobao.org/accepts/download/accepts-1.3.7.tgz#531bc726517a3b2b41f850021c6cc15eaab507cd"
