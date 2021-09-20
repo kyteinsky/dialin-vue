@@ -15,7 +15,6 @@
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
 import Wall from "./components/MasonryWall.vue";
 import Spacer from "./components/Spacer.vue";
 import ChannelPage from "./components/ChannelPage.vue";
@@ -23,7 +22,6 @@ import ChannelPage from "./components/ChannelPage.vue";
 export default {
   name: "App",
   components: {
-    HelloWorld,
     Wall,
     Spacer,
     ChannelPage,
